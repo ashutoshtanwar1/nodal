@@ -151,8 +151,6 @@ Alternatively, you can test it with the MCP Inspector:
 fastmcp dev server.py
 ```
 
-![MCP Inspector](/docs/assets/demo-inspector.png)
-
 ## What is MCP?
 
 The [Model Context Protocol (MCP)](https://modelcontextprotocol.io) lets you build servers that expose data and functionality to LLM applications in a secure, standardized way. Think of it like a web API, but specifically designed for LLM interactions. MCP servers can:
